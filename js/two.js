@@ -172,6 +172,10 @@
 // console.log(y)
 
 
-let text = "AMR BASA PATUAKHLI BARISHAL /mansur/ bauphal";
+let text = "AMR BASA PATUAKHLI \tBARISHAL /mansur/ bauphal";
 
 console.log(text);
+
+
+
+
