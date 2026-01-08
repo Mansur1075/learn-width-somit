@@ -172,22 +172,48 @@
 // console.log(y)
 
 
-let text = "AMR BASA PATUAKHLI \tBARISHAL /mansur/ bauphal";
+// let text = "AMR BASA PATUAKHLI \tBARISHAL /mansur/ bauphal";
 
-console.log(text);
-
-
+// console.log(text);
 
 
+// const car ={
+//     name: "bmw",
+//     model: 500,
+//     color: "red",
+//     with: "500kg",
+//     start: function(){
+//         this.drive();
+//         console.log("car is start");
+        
+//     },
+//     drive: function(){
+//       console.log("car is drive");
+      
+//     },
+// }
+
+// console.log(car.model);
+// console.log(car["color"]);
+
+// car.start();
 
 
 
+// let x = 5
+// let x = new Number(5);
+// console.log(typeof x);
 
 
 
+// let mansur = "mansur er bari patuakhali"
+
+// console.log(mansur);
 
 
-
+let x = 5;
+let y = new String(5) 
+console.log( x==y);
 
 
 
