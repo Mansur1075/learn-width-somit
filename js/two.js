@@ -211,9 +211,9 @@
 // console.log(mansur);
 
 
-let x = 5;
-let y = new String(5) 
-console.log( x==y);
+let x = "mansur";
+let y = new String("mansur") 
+console.log( x == y);
 
 
 
