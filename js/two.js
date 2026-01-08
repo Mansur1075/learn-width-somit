@@ -211,11 +211,14 @@
 // console.log(mansur);
 
 
-let x = "mansur";
-let y = new String("mansur") 
-console.log( x == y);
+// let x = "mansur";
+// let y = new String("mansur") 
+// console.log( x === y);
 
-
+let x = (5)
+let y = new Number(5)
+ console.log(typeof x);
+ 
 
 
 
