@@ -215,9 +215,17 @@
 // let y = new String("mansur") 
 // console.log( x === y);
 
-let x = (5)
-let y = new Number(5)
- console.log(typeof x);
+// let x = 5 + 5
+
+// let y = "5" + 5
+
+// let z = "mansur" + 7
+
+//  let x = 5
+
+let x 
+
+console.log(x);
  
 
 
