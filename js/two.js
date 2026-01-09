@@ -223,11 +223,64 @@
 
 //  let x = 5
 
-let x 
+// let x 
 
-console.log(x);
+// console.log(x);
  
 
+// let x = 5 ;
+// let y = 6 ;
+// let z = 7 ;
 
+// let myObject = {x: 5, y: 6, z: 7,}
+
+// console.log(x);
+//  function myFunction(a , b){
+//    return a * b
+//  }
+//   let x = myFunction(3 , 4)
+//   console.log(x);
+
+//    let x = 77;
+//    let text = "mansur gumay" + x + "imtan gumay"
+//    console.log(text);
+  
+
+
+
+
+// let mansur = "cvr"
+
+//  function myFunction(){
+//     let mansur = "bmw"
+//     console.log(mansur);
+    
+//  }
+//  function myFunction2(){
+//     let mansur = "bmw"
+//     console.log(mansur);
+    
+//  }
+
+//  myFunction2()
+//  myFunction()
+//  console.log(mansur);
+
+let car = {
+ name:"oddi",
+ color:"red",
+ ojon: "8400kg",
+ hight: 500,
+ start: function(){
+   console.log("cat is start")
+ },
+ drive:function(){
+    console.log("car is drive")
+ },
+
+}
+console.log(car.hight);
+console.log(car["name"]);
+car.start();
 
 
