@@ -259,7 +259,7 @@
 //  function myFunction2(){
 //     let mansur = "bmw"
 //     console.log(mansur);
-    
+  
 //  }
 
 //  myFunction2()
